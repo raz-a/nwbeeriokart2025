@@ -1,5 +1,7 @@
 # 3rd Annual Northwestern Beerio Kart Inviational Rules #
 
+{:toc}
+
 ## Race Types and Rules ##
 There are two types of races that racers will participate in:
 - **Vanilla Mario Kart**
