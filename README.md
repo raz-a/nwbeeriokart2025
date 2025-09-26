@@ -57,7 +57,7 @@ This phase consists of **4** race heats.
 
 This phase is **single elimination** and the **Top 3** racers will move on to the next phase.
 
-> If there is a tie for 3rd place after the four races. A 5th race will be held using the Beerio Kart ruleset.
+> If there is a tie for 3rd place after the four races. A 5th race will be held using the Vanilla ruleset.
 
 ### Phase 2 (32 racers) ###
 This phase consists of **4** race heats.
@@ -66,7 +66,7 @@ This phase consists of **4** race heats.
 
 For this phase the **Top 2** racers will be placed in the winners' bracket, while the **Bottom 2** racers will be placed in the losers' bracket.
 
-> If there is a tie for 2nd place after the four races. A 5th race will be held using the Beerio Kart ruleset.
+> If there is a tie for 2nd place after the four races. A 5th race will be held using the Vanilla ruleset.
 
 ### Phase 3 (16 racers in Winners'/16 racers in Losers')
 This phase consists of **3** race heats.
@@ -78,7 +78,7 @@ This phase consists of **3** race heats.
 
 This phase is **double elimination**. The **Top 2** racers from each bracket will continue on. The **Bottom 2** racers in the winners' bracket will be placed in the losers' bracket. The **Bottom 2** racers in the losers' bracket will be eliminated.
 
-> If there is a tie for 2nd place after the four races. A 4th race will be held using the Beerio Kart ruleset.
+> If there is a tie for 2nd place after the four races. A 4th race will be held using the Vanilla ruleset.
 
 This phase continues until there are 2 remaining members in the winners' bracket and 2 remaining members in the losers' bracket.
 
